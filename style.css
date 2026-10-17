@@ -46,3 +46,4 @@ button.btn{border:0;font:inherit;font-weight:600;cursor:pointer}.email-line{marg
 
 .about-wrap{display:flex;gap:2rem;align-items:center}.headshot{width:160px;height:160px;border-radius:50%;border:3px solid var(--accent,#6fcfb8);flex-shrink:0;object-fit:cover}.travel{width:100%;border-radius:10px;margin-top:.8rem}
 @media(max-width:640px){.about-wrap{flex-direction:column;text-align:center}}
+.open-to{color:var(--accent,#6fcfb8);font-size:.95rem;margin:-.5rem 0 1.5rem}
