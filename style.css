@@ -41,3 +41,4 @@ footer{text-align:center;padding:2rem;color:var(--muted);font-size:.85rem}
 .rec li{padding:.7rem 1rem;border-left:2px solid var(--accent);background:var(--panel);border-radius:0 8px 8px 0}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .one{grid-template-columns:1fr}
+button.btn{border:0;font:inherit;font-weight:600;cursor:pointer}.email-line{margin-bottom:1rem}
