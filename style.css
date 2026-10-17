@@ -42,3 +42,4 @@ footer{text-align:center;padding:2rem;color:var(--muted);font-size:.85rem}
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .one{grid-template-columns:1fr}
 button.btn{border:0;font:inherit;font-weight:600;cursor:pointer}.email-line{margin-bottom:1rem}
+#contact .cta{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem}#contact button.btn{font-size:1rem;padding:.75rem 1.4rem;border:1px solid var(--accent)}
